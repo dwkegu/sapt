@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttery_mat_select_size">60dp</dimen>
+    <dimen name="buttery_mat_select_radium">30dp</dimen>
+    <dimen name="buttery_mat_select_margintop">-30dp</dimen>
+    <dimen name="buttery_mat_select_graph_button_height">50dp</dimen>
+    <dimen name="buttery_mat_select_graph_button_margin_top">-25dp</dimen>
+    <dimen name="buttery_mat_select_size_shadow">54dp</dimen>
+    <dimen name="buttery_mat_select_size_shadow_radium">27dp</dimen>
+</resources>

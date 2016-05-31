@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="buttery_mat_select_size">40dp</dimen>
+    <dimen name="buttery_mat_select_size_shadow">36dp</dimen>
+    <dimen name="buttery_mat_select_size_shadow_radium">18dp</dimen>
+    <dimen name="buttery_mat_select_radium">20dp</dimen>
+    <dimen name="buttery_mat_select_margintop">-20dp</dimen>
+    <integer name="mat_grid_columns">5</integer>
+    <dimen name="buttery_mat_select_graph_button_height">30dp</dimen>
+    <dimen name="buttery_mat_select_graph_button_margin_top">30dp</dimen>
+</resources>

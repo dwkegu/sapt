@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">电源巡检</string>
+    <string name="app_name_full">电源无线巡检系统</string>
+    <string name="main_activity">主程序</string>
+    <string name="function_main">电池监控系统</string>
+    <string name="next_page">下一页</string>
+    <string name="last_page">上一页</string>
+    <string name="page_num_test">共2页，第1页</string>
+    <string name="oldId">旧ID</string>
+    <string name="newId">新ID</string>
+    <string name="ID">ID</string>
+    <string name="id_set">ID标定状态</string>
+    <string name="saving">保存</string>
+    <string name="biaoding">标定</string>
+    <string name="voltage_gates">电压路数</string>
+    <string name="temprature_gates">温度路数</string>
+    <string name="add_user">用户登入</string>
+    <string name="login_user">用户名</string>
+    <string name="user_password">用户密码</string>
+    <string name="re_password">重复密码</string>
+    <string name="add_user_button">登入</string>
+    <string name="block_data">模块数据</string>
+    <string name="back">返回</string>
+
+    <!--校验模块是否连接的字符串，模块的ssid-->
+    <string name="module_id">CANWIFI-200T</string>
+    <string name="module_idt">\"PaJi\"</string>
+    <string name="module_addresst">192.168.1.108</string>
+    <string name="module_id_test">\"PaJi\"</string>
+    <string name="module_address">192.168.1.178</string>
+    <!--bmu信息列表-->
+    <string name="lecu_current_string">充放电电流：</string>
+
+</resources>

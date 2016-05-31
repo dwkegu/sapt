@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="oval">
+            <padding android:top="-1dp" android:bottom="2.5dp" android:right="1dp"/>
+            <gradient android:startColor="@color/shadow1"
+                android:endColor="@color/shadow2" android:type="radial"
+                android:gradientRadius="@dimen/buttery_mat_select_size_shadow_radium" />
+            <size android:height="@dimen/buttery_mat_select_size_shadow"
+                android:width="@dimen/buttery_mat_select_size_shadow"/>
+            <corners android:radius="@dimen/buttery_mat_select_size_shadow_radium"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <size android:height="@dimen/buttery_mat_select_size"
+                android:width="@dimen/buttery_mat_select_size"/>
+            <solid android:color="@color/select_button_mat"/>
+            <corners android:radius="@dimen/buttery_mat_select_radium"/>
+        </shape>
+    </item>
+
+
+</layer-list>

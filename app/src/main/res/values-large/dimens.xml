@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttery_mat_select_size">40dp</dimen>
+    <dimen name="buttery_mat_select_radium">20dp</dimen>
+    <dimen name="buttery_mat_select_margintop">-20dp</dimen>
+    <dimen name="buttery_mat_select_graph_button_height">20dp</dimen>
+    <dimen name="buttery_mat_select_graph_button_margin_top">-10dp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_divider">#ddaaaaaa</color>
+    <color name="list_text_color">#ff545454</color>
+    <color name="list_bg">#ff66d6d6</color>
+    <color name="fragment_divider">#ddaaaaaa</color>
+    <color name="shadow1">#29111111</color>
+    <color name="shadow2">#01111111</color>
+    <drawable name="list_item_select">@android:color/holo_blue_dark</drawable>
+    <color name="input_text_color">#ff222222</color>
+    <color name="border_edit_text">#ffcccccc</color>
+    <color name="list_item_click_bg">#44444444</color>
+    <color name="border_white">#ffdddddd</color>
+    <color name="red_color">#ffff0077</color>
+    <color name="select_button_mat">#ff3aa7cf</color>
+    <color name="blue_color">#ff3333ff</color>
+    <color name="mat_bg">#ffffffff</color>
+    <color name="header_color">#ff33a3a3</color>
+    <color name="header_color_dark">#ff008080</color>
+    <color name="status_bar_color">#ff229393</color>
+    <color name="text_black">#ff222222</color>
+    <color name="id_button_bg">#ff1192c2</color>
+    <color name="white_line">#ffffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="green">#00ff00</color>
+</resources>

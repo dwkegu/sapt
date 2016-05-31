@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/company_title"/>
+        <ImageView
+            android:id="@+id/bmu_selector"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bmu_selector_no"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"/>
+    </LinearLayout>
+    <GridView
+        android:id="@+id/module_selector"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="8" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/start_detect"
+        android:text="启动"/>
+
+</LinearLayout>

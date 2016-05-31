@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/scan_module_icon"
+        android:id="@+id/menu_mat_scan"
+        android:title="扫描连接模块"
+        android:enabled="true"/>
+    <item android:icon="@drawable/scan_module_icon"
+        android:id="@+id/menu_mat_select"
+        android:title="查看曲线图"
+        android:enabled="true"/>
+</menu>
